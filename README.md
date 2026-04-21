@@ -1,21 +1,21 @@
-# 🚀 CareerFlux: AI-Powered Student Dashboard
+#  CareerFlux: AI-Powered Student Dashboard
 
 **CareerFlux** is a privacy-first, visually stunning AI student companion. It leverages local Large Language Models (LLMs) via Ollama to provide high-performance academic assistance without compromising data privacy.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📄 **AI Resume Analyzer**: Upload your details and get instant professional feedback.
-- 🛤️ **Career Guidance**: Explore personalized career paths and roadmaps.
-- 📝 **Smart Notes Generator**: Transform unstructured thoughts into clean, organized notes.
-- 🧠 **Quiz Generator**: Generate interactive MCQs to test your knowledge on any subject.
-- 💬 **Privacy-First Chat**: General AI assistance powered by **local llama3**, ensuring your data never leaves your machine.
-- 🔐 **Secure Authentication**: Robust JWT-based authentication system with encrypted password hashing.
+-  **AI Resume Analyzer**: Upload your details and get instant professional feedback.
+-  **Career Guidance**: Explore personalized career paths and roadmaps.
+-  **Smart Notes Generator**: Transform unstructured thoughts into clean, organized notes.
+-  **Quiz Generator**: Generate interactive MCQs to test your knowledge on any subject.
+-  **Privacy-First Chat**: General AI assistance powered by **local llama3**, ensuring your data never leaves your machine.
+-  **Secure Authentication**: Robust JWT-based authentication system with encrypted password hashing.
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 CareerFlux follows a modern decoupled architecture:
 
@@ -52,7 +52,7 @@ graph TD
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Component | Technology | Description |
 | :--- | :--- | :--- |
@@ -66,7 +66,7 @@ graph TD
 
 ---
 
-## 📥 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -117,7 +117,7 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 carrearflux/
@@ -140,7 +140,7 @@ carrearflux/
 
 ---
 
-## 🔒 Security & Privacy
+##  Security & Privacy
 
 - **No Cloud AI**: CareerFlux does not send your data to OpenAI, Google, or any other cloud provider. All AI processing happens locally on your hardware.
 - **Data Persistence**: Your data is stored in a local SQLite database, giving you full control over your information.
@@ -148,7 +148,7 @@ carrearflux/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any bugs or feature requests.
 
